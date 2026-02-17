@@ -93,7 +93,7 @@ h1, h2, h3, h4, font-bold {
 }
 
 /* Particles */
-.particles-container {
+/* .particles-container {
     position: absolute;
     inset: 0;
     z-index: 1;
@@ -111,7 +111,7 @@ h1, h2, h3, h4, font-bold {
 @keyframes floatParticle {
     from { transform: translateY(0); }
     to { transform: translateY(-100vh); }
-}
+} */
 
 .back-to-top {
     position: fixed;
